@@ -1,7 +1,7 @@
 # Read Me
-Create your own AI Assistant, powered by ringel.AI
+Create my own AI Assistant, powered by Vidushi Bhadola called TarBot.
 
-This repo makes it easy to configure and deploy your own AI Assistant using Vercel and Pinecone. 
+This repo makes it easy to configure and deploy own AI Assistant using Vercel and Pinecone. 
 
-For documentation, contact Daniel Ringel and visit www.ringel.AI 
+For documentation, contact Vidushi Bhadola.
 
